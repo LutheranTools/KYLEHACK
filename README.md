@@ -1,2 +1,0 @@
-# KYLEHACK
-python kal.py
